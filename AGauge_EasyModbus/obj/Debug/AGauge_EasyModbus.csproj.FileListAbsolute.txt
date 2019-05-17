@@ -1,0 +1,10 @@
+D:\VisualStudio2015_Programs\C#_Programs\AGauge_EasyModbus\AGauge_EasyModbus\bin\Debug\AGauge_EasyModbus.exe.config
+D:\VisualStudio2015_Programs\C#_Programs\AGauge_EasyModbus\AGauge_EasyModbus\bin\Debug\AGauge_EasyModbus.exe
+D:\VisualStudio2015_Programs\C#_Programs\AGauge_EasyModbus\AGauge_EasyModbus\bin\Debug\AGauge_EasyModbus.pdb
+D:\VisualStudio2015_Programs\C#_Programs\AGauge_EasyModbus\AGauge_EasyModbus\obj\Debug\AGauge_EasyModbus.csprojResolveAssemblyReference.cache
+D:\VisualStudio2015_Programs\C#_Programs\AGauge_EasyModbus\AGauge_EasyModbus\obj\Debug\AGauge_EasyModbus.Form1.resources
+D:\VisualStudio2015_Programs\C#_Programs\AGauge_EasyModbus\AGauge_EasyModbus\obj\Debug\AGauge_EasyModbus.Properties.Resources.resources
+D:\VisualStudio2015_Programs\C#_Programs\AGauge_EasyModbus\AGauge_EasyModbus\obj\Debug\AGauge_EasyModbus.csproj.GenerateResource.Cache
+D:\VisualStudio2015_Programs\C#_Programs\AGauge_EasyModbus\AGauge_EasyModbus\obj\Debug\AGauge_EasyModbus.exe
+D:\VisualStudio2015_Programs\C#_Programs\AGauge_EasyModbus\AGauge_EasyModbus\obj\Debug\AGauge_EasyModbus.pdb
+D:\VisualStudio2015_Programs\C#_Programs\AGauge_EasyModbus\AGauge_EasyModbus\bin\Debug\EasyModbus.dll
